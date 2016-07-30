@@ -16,3 +16,4 @@ ADD test .
 >>>>>>> feature1
 add merge
 stash 1
+Second line added from the master branch.
