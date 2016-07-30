@@ -16,4 +16,7 @@ ADD test .
 >>>>>>> feature1
 add merge
 stash 1
+<<<<<<< HEAD
 hahaha
+分支 dev 设置为跟踪来自 origin 的远程分支 dev
+>>>>>>> acb370ed7cab9385dcddb2e054af8e46d70bff9f
