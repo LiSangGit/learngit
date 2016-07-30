@@ -15,3 +15,4 @@ so test.
 ADD test .
 >>>>>>> feature1
 add merge
+stash
