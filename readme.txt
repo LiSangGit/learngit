@@ -9,3 +9,4 @@ Creating a new branch is quick and faster.
 =======
 hello merge.
 >>>>>>> feature
+add test .
