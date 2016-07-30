@@ -7,5 +7,5 @@ Creating a new branch is quick and faster.
 <<<<<<< HEAD
 & merge
 =======
-AND merge.
+hello merge.
 >>>>>>> feature
