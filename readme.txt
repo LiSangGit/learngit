@@ -3,4 +3,4 @@ Git has been changed here!
 Git is free software distribute under GPL.
 Git Git has a mutable index called stage.
 Git has changed.
-Creating a new branch is quick AND faster.
+Creating a new branch is quick & faster.
